@@ -3,10 +3,10 @@ This PyTorch Learning Series  Contains Basic to Advance tutorials with Simple  E
 
 | Sr No | Topic                         | GitHub                                                       |
 | ----- | ----------------------------- | ------------------------------------------------------------ |
-| 1.    | PyTorch Introduction          | ![Open In Colab](https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667) |
-| 2.    | PyTorch Basic Operations      | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) |
-| 3.    | PyTorch Variable and Autograd | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) |
-| 4.    | PyTorch Activation Functions  | ![Open In Colab](https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667) |
+| 1.    | PyTorch Introduction          | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/Pytorch-Learning/blob/main/Pytorch_Basic_Introduction.ipynb) |
+| 2.    | PyTorch Basic Operations      | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/Pytorch-Learning/blob/main/Pytorch_Basics_Operations.ipynb) |
+| 3.    | PyTorch Variable and Autograd | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/Pytorch-Learning/blob/main/Pytorch_Variable_and_Autograd.ipynb) |
+| 4.    | PyTorch Activation Functions  | [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/Pytorch-Learning/blob/main/Pytorch_Activation_Functions.ipynb) |
 | 5.    | PyTorch Neural Network        |                                                              |
 
 ***Thanks for reading***
